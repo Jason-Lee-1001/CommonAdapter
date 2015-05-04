@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Getui_Demo/Getui_Demo.iml" filepath="$PROJECT_DIR$/Getui_Demo/Getui_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonlistadapter/commonlistadapter.iml" filepath="$PROJECT_DIR$/commonlistadapter/commonlistadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daopractice/daopractice.iml" filepath="$PROJECT_DIR$/daopractice/daopractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndk/ndk.iml" filepath="$PROJECT_DIR$/ndk/ndk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newrequest/newrequest.iml" filepath="$PROJECT_DIR$/newrequest/newrequest.iml" />
+    </modules>
+  </component>
+</project>
+

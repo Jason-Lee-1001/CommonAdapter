@@ -1,0 +1,2 @@
+include ':daopractice', ':myapplication', ':newrequest', ':commonlistadapter', ':ndk'
+include ':Getui_Demo'
